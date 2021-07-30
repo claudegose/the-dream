@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=WindSong:wght@500&display=swap');
+
+
+html {
+    align-items: center
+}
+
+
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'WindSong', cursive;
+}
+
+
+body{
+    background-color: skyblue;
+    align-content: center;
+    text-align: center;
+}
+
+.box{
+    background-color: pink;
+}
